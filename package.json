@@ -35,7 +35,7 @@
     "mocha": "^5.2.0",
     "mocha-multi-reporters": "^1.1.7",
     "nyc": "^13.3.0",
-    "standard-version": "^5.0.0",
+    "standard-version": "^8.0.1",
     "xunit-file": "^1.0.0",
     "yeoman-assert": "^3.1.1",
     "yeoman-test": "^2.0.0"
